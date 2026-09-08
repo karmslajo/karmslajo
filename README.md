@@ -1,12 +1,10 @@
 # Jann Carmely C. Lajo
 
-**Software Engineer | Frontend Developer**
+**Software Engineer**
 
 I build production interfaces in React, Next.js, and TypeScript, from Iloilo City, Philippines. Comfortable in the API layer behind them when a feature needs it.
 
-**Now.** Frontend developer at MySchool Suite, building a school operations platform across three role-based portals (admin, teacher, and parent) in Next.js, React, TypeScript, and Tailwind CSS, with reusable components and REST integration through TanStack Query, React Hook Form, and Zod.
-
-**Also.** Inventory, procurement, and accounting modules on a multi-tenant ERP at Prometheus, writing the NestJS, Prisma, and PostgreSQL services as well as the React screens over them.
+**Now.** Inventory, procurement, and accounting modules on a multi-tenant ERP at Prometheus, writing the NestJS, Prisma, and PostgreSQL services as well as the React screens over them.
 
 **Before.** Built the Gump mobile app from scratch in React Native (Expo) at KaChick and owned the release through App Store review: [Gump: Photos + Memories](https://apps.apple.com/ph/app/gump-photos-memories/id6670382932). Also shipped five marketing pages for its web app in Next.js.
 
