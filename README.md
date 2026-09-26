@@ -1,6 +1,6 @@
 # Jann Carmely C. Lajo
 
-**Software Engineer** · Iloilo City, Philippines
+**Software Engineer** · Frontend Developer · Iloilo City, Philippines
 
 I build web and mobile apps with React, Next.js, React Native and TypeScript, and the APIs behind them. Right now I'm building an offline jeepney route guide for my city.
 
